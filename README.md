@@ -6,7 +6,16 @@ Jupyter/Python.
 
 Lessons
 -------
+  * Sissejuhatus Jupyter-i
+  * Ülilühike sissejuhatus Pythonisse.
+  * Sissejuhatus Pandassesse
 
+Files
+-----
+  * `data` - contains example data files for lessons
+  * `figures` - contains figures used in the notebooks
+  * `lessons_nb` - Jupyter notebooks with example code
+  * `lessons_md` - Markdown files with example code
 
 Attribution & License
 ---------------------
