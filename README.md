@@ -4,18 +4,9 @@ Jupyter/Python Lessons
 This repository contains lessons and materials for brief introduction to
 Jupyter/Python.
 
-Lessons
--------
-  * Sissejuhatus Jupyter-i
-  * Ülilühike sissejuhatus Pythonisse.
-  * Sissejuhatus Pandassesse
-
-Files
------
-  * `data` - contains example data files for lessons
-  * `figures` - contains figures used in the notebooks
-  * `lessons_nb` - Jupyter notebooks with example code
-  * `lessons_md` - Markdown files with example code
+  * [00 - Anaconda & Jupyter setup/introduction](00-anaconda-jupyter-setup.ipynb)
+  * [01 - Very short Python introduction](01-python-introduction.ipynb)
+  * [02 - Pandas introduction](02-pandas-introduction.ipynb)
 
 Attribution & License
 ---------------------
