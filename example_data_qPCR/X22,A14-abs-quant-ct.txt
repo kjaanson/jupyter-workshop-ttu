@@ -1,0 +1,250 @@
+"Experiment Name"	"Analysis Name"	Included	Position	"SampleName"	CrossingPoint	Concentration	Standard	"StatusCodes"	"StatusDesc"	Call	CpUncertain	CpState	CalcConcUncertain
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	B2	"rBDNFcod,Rcod-1-5-4"	16.7141000831936	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	B3	"rBDNFcod,Rcod-1-5-5"	19.0285269319908	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	B4	"rBDNFcod,Rcod-1-5-6"	21.55249219883	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	B5	"rBDNFcod,Rcod-1-5-7"	23.8178898596971	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	B6	"rBDNFcod,Rcod-1-5-8"	26.2221504647707	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	B7	"rBDNFcod,Rcod-1-5-9"	28.4966227289393	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	B8	"rBDNFcod,Rcod-1-5-10"	31.1705301286323	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	B9	"rBDNFcod,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	C2	"rBDNFcod,Rcod-1-5-4"	16.724786163966	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	C3	"rBDNFcod,Rcod-1-5-5"	19.1130550786865	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	C4	"rBDNFcod,Rcod-1-5-6"	21.5417979141939	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	C5	"rBDNFcod,Rcod-1-5-7"	23.8762626822591	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	C6	"rBDNFcod,Rcod-1-5-8"	26.1587948504605	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	C7	"rBDNFcod,Rcod-1-5-9"	28.8186172489216	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	C8	"rBDNFcod,Rcod-1-5-10"	30.8648857662733	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	C9	"rBDNFcod,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	D2	"rBDNFcod,Rcod-1-5-4"	16.7861118993047	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	D3	"rBDNFcod,Rcod-1-5-5"	19.1483653902662	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	D4	"rBDNFcod,Rcod-1-5-6"	21.5218079321696	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	D5	"rBDNFcod,Rcod-1-5-7"	23.8201400827501	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	D6	"rBDNFcod,Rcod-1-5-8"	26.1237217251196	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	D7	"rBDNFcod,Rcod-1-5-9"	28.7489060159238	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	D8	"rBDNFcod,Rcod-1-5-10"	30.8501027985224	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	D9	"rBDNFcod,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	E2	"rBDNFcod,A1"	26.0143175564029	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	E3	"rBDNFcod,A2"	25.1991181771249	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	E4	"rBDNFcod,A3"	28.0527162271113	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	E5	"rBDNFcod,A4"	28.1467810595508	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	E6	"rBDNFcod,N1"	27.013263542917	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	E7	"rBDNFcod,N2"	22.2863864983025	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	E8	"rBDNFcod,N3"	24.0367289897584	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	E9	"rBDNFcod,N4"	23.2374389407151	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	F2	"rBDNFcod,A1"	26.0665949236109	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	F3	"rBDNFcod,A2"	25.193279870654	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	F4	"rBDNFcod,A3"	28.0220575697163	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	F5	"rBDNFcod,A4"	28.0899932094398	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	F6	"rBDNFcod,N1"	26.9001588812806	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	F7	"rBDNFcod,N2"	22.2749017753881	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	F8	"rBDNFcod,N3"	23.9755143187287	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	F9	"rBDNFcod,N4"	23.2891075414178	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	G2	"rBDNFcod,A1"	26.1134038277792	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	G3	"rBDNFcod,A2"	25.2777757061512	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	G4	"rBDNFcod,A3"	27.9141362438673	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	G5	"rBDNFcod,A4"	27.9216474807267	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	G6	"rBDNFcod,N1"	26.9585103304944	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	G7	"rBDNFcod,N2"	22.3061662557055	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	G8	"rBDNFcod,N3"	24.0240318136266	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017202-rBDNFcod-2"	"Abs Quant/2nd Derivative Max for rBDNFcod"	1	G9	"rBDNFcod,N4"	23.4567386151508	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	A2	"rI,A1"	36.9249993002653	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	A3	"rI,A1"	36.5806353132719	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	A4	"rI,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	A5	"rI,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	A6	"rI,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	B2	"rI,A2"	34.2227474518954	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	B3	"rI,A2"	34.4773075490597	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	B4	"rI,RI-1-5-10"	31.6439894987005	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	B5	"rI,RI-1-5-10"	31.6951978233496	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	B6	"rI,RI-1-5-10"	31.7137800580562	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	C2	"rI,A3"	36.0690096557642	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	C3	"rI,A3"	36.4122900442135	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	C4	"rI,RI-1-5-9"	30.1896559474631	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	C5	"rI,RI-1-5-9"	30.32276910257	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	C6	"rI,RI-1-5-9"	30.6875221685672	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	D2	"rI,A4"	35.023134003678	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	D3	"rI,A4"	35.7705950932054	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	D4	"rI,RI-1-5-8"	26.9516838946012	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	D5	"rI,RI-1-5-8"	26.9681127750228	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	D6	"rI,RI-1-5-8"	26.9580356056299	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	E2	"rI,N1"	32.9966625729568	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	E3	"rI,N1"	32.6818294223461	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	E4	"rI,RI-1-5-7"	24.5550606266531	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	E5	"rI,RI-1-5-7"	24.5750170450823	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	E6	"rI,RI-1-5-7"	24.8315416322903	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	F2	"rI,N2"	27.6212877342096	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	F3	"rI,N2"	27.7067611995525	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	F4	"rI,RI-1-5-6"	22.5257932787821	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	F5	"rI,RI-1-5-6"	22.5833831224934	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	F6	"rI,RI-1-5-6"	22.6120238196034	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	G2	"rI,N3"	30.8064424534402	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	G3	"rI,N3"	30.8048652357342	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	G4	"rI,RI-1-5-5"	19.6783799217665	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	G5	"rI,RI-1-5-5"	19.6823115671599	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	G6	"rI,RI-1-5-5"	19.5863490582301	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	H2	"rI,N4"	29.6059090429124	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rI"	1	H3	"rI,N4"	29.4760618144777	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	A8	"rII,A1"	40	 	 	">"	"Late Cp call (last five cycles) has higher uncertainty"	pdcPositive	0	cpsLarge	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	A9	"rII,A1"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	A10	"rII,mQ"	40	 	 	">"	"Late Cp call (last five cycles) has higher uncertainty"	pdcPositive	0	cpsLarge	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	A11	"rII,mQ"	40	 	 	">"	"Late Cp call (last five cycles) has higher uncertainty"	pdcPositive	0	cpsLarge	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	A12	"rII,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	B8	"rII,A2"	34.9073356747885	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	B9	"rII,A2"	35.2682165278483	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	B10	"rII,RII-1-5-10"	32.6222912256926	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	B11	"rII,RII-1-5-10"	31.9545900909769	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	B12	"rII,RII-1-5-10"	32.4778977378632	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	0	C8	"rII,A3"	 	 	 	" "	" "	pdcPositive	0	cpsNone	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	C9	"rII,A3"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	C10	"rII,RII-1-5-9"	30.1079763192369	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	C11	"rII,RII-1-5-9"	30.0749012867477	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	C12	"rII,RII-1-5-9"	30.4920574238338	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	0	D8	"rII,A4"	 	 	 	" "	" "	pdcPositive	0	cpsNone	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	D9	"rII,A4"	37.0339251359367	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	D10	"rII,RII-1-5-8"	27.6677393141503	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	D11	"rII,RII-1-5-8"	27.695366518301	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	D12	"rII,RII-1-5-8"	27.8698380158267	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	E8	"rII,N1"	31.3042616639858	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	E9	"rII,N1"	31.6115235678586	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	E10	"rII,RII-1-5-7"	25.3043224189892	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	E11	"rII,RII-1-5-7"	25.532816108066	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	E12	"rII,RII-1-5-7"	25.4337082752293	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	F8	"rII,N2"	28.0283992481735	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	F9	"rII,N2"	27.9501451192697	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	F10	"rII,RII-1-5-6"	23.1857238041239	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	F11	"rII,RII-1-5-6"	23.1442393830287	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	F12	"rII,RII-1-5-6"	23.9573134724757	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	G8	"rII,N3"	28.677776870379	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	G9	"rII,N3"	28.4727890487956	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	G10	"rII,RII-1-5-5"	20.0231936246684	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	G11	"rII,RII-1-5-5"	20.0987319751433	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	G12	"rII,RII-1-5-5"	20.2240023132826	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	H8	"rII,N4"	28.2474853522092	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017207-rI,rII"	"Abs Quant/2nd Derivative Max for rII"	1	H9	"rII,N4"	28.2537393275447	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	A1	"rIV,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	A2	"rIV,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	A3	"rIV,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	A4	"rIV,A1"	33.5587916870131	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	A5	"rIV,A1"	32.9265419821359	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	A6	"rIV,A1"	32.8254465094349	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	B1	"rIV,RIV-1-5-5"	20.2933782074018	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	B2	"rIV,RIV-1-5-5"	20.2342218844058	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	B3	"rIV,RIV-1-5-5"	20.2656322980347	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	B4	"rIV,A2"	32.1888299339038	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	B5	"rIV,A2"	32.712779076733	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	B6	"rIV,A2"	32.2399550006436	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	C1	"rIV,RIV-1-5-6"	22.6890934251971	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	C2	"rIV,RIV-1-5-6"	22.7789167278741	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	C3	"rIV,RIV-1-5-6"	22.7097719291076	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	C4	"rIV,A4"	34.5008865873241	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	C5	"rIV,A4"	33.8340091991416	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	C6	"rIV,A4"	34.1620771307913	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	D1	"rIV,RIV-1-5-7"	24.9233584834966	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	D2	"rIV,RIV-1-5-7"	24.9195747047504	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	D3	"rIV,RIV-1-5-7"	24.9051369727999	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	D4	"rIV,A3"	35.5242825437279	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	D5	"rIV,A3"	35.9328038697637	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	D6	"rIV,A3"	37.4004070585022	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	E1	"rIV,RIV-1-5-8"	27.5696501047556	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	E2	"rIV,RIV-1-5-8"	27.327621272479	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	E3	"rIV,RIV-1-5-8"	27.1715667195645	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	E4	"rIV,N1"	29.4710696302531	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	E5	"rIV,N1"	29.3267371565038	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	E6	"rIV,N1"	29.4907624594628	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	F1	"rIV,RIV-1-5-9"	29.9362174515552	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	F2	"rIV,RIV-1-5-9"	29.6391468776405	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	F3	"rIV,RIV-1-5-9"	29.6600657811143	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	F4	"rIV,N2"	23.8887670969773	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	F5	"rIV,N2"	23.8981483022939	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	F6	"rIV,N2"	23.9090402477656	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	G1	"rIV,RIV-1-5-10"	32.4971480965769	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	G2	"rIV,RIV-1-5-10"	32.2883773667715	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	G3	"rIV,RIV-1-5-10"	32.1382825770602	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	G4	"rIV,N3"	26.2347170448501	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	G5	"rIV,N3"	26.2225116040769	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	G6	"rIV,N3"	26.2232078001122	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	H4	"rIV,N4"	25.3137505241563	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	H5	"rIV,N4"	25.3384516990695	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rIV"	1	H6	"rIV,N4"	25.464296266096	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	A7	"rVI,A1"	26.2912254176886	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	A8	"rVI,A1"	26.2470245711405	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	A9	"rVI,A1"	26.201659245527	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	A10	"rVI,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	A11	"rVI,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	A12	"rVI,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	B7	"rVI,A2"	25.2322095451504	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	B8	"rVI,A2"	25.1387715452724	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	B9	"rVI,A2"	25.2344896190765	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	B10	"rVI,RVI-1-5-5"	19.1905040012838	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	B11	"rVI,RVI-1-5-5"	19.189378318004	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	B12	"rVI,RVI-1-5-5"	19.2843305201297	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	C7	"rVI,A4"	28.2642055161948	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	C8	"rVI,A4"	28.3370342643394	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	C9	"rVI,A4"	27.941809236781	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	C10	"rVI,RVI-1-5-6"	21.0807068273387	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	C11	"rVI,RVI-1-5-6"	21.1518073731511	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	C12	"rVI,RVI-1-5-6"	21.1667803423437	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	D7	"rVI,A3"	28.1656877218959	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	D8	"rVI,A3"	28.2971214025017	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	D9	"rVI,A3"	28.4241427333718	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	D10	"rVI,RVI-1-5-7"	23.4192225986082	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	D11	"rVI,RVI-1-5-7"	23.2051833651926	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	D12	"rVI,RVI-1-5-7"	23.332234296295	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	E7	"rVI,N1"	29.7873637076311	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	E8	"rVI,N1"	29.6837322664937	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	E9	"rVI,N1"	29.6684656859388	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	E10	"rVI,RVI-1-5-8"	25.7860926730201	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	E11	"rVI,RVI-1-5-8"	25.8579423509558	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	E12	"rVI,RVI-1-5-8"	25.9375245623513	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	F7	"rVI,N2"	25.6926421722848	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	F8	"rVI,N2"	25.7250035702256	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	F9	"rVI,N2"	25.6309629974154	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	F10	"rVI,RVI-1-5-9"	28.517099309418	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	F11	"rVI,RVI-1-5-9"	28.5432186102249	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	F12	"rVI,RVI-1-5-9"	28.1361590434575	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	G7	"rVI,N3"	26.8464601630369	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	G8	"rVI,N3"	26.8555702942183	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	G9	"rVI,N3"	26.8101369351982	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	G10	"rVI,RVI-1-5-10"	30.880732896758	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	G11	"rVI,RVI-1-5-10"	30.4276532598763	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	G12	"rVI,RVI-1-5-10"	30.6956842094183	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	H7	"rVI,N4"	26.5915698529209	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	H8	"rVI,N4"	26.6723069902426	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017204-rIV,rVI-2"	"Abs Quant/2nd Derivative Max for rVI"	1	H9	"rVI,N4"	26.6037713962766	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	B2	"rIXa,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	B3	"rIXa,RIX-1-5-5"	20.4594172102614	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	B4	"rIXa,RIX-1-5-6"	22.8343210420295	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	B5	"rIXa,RIX-1-5-7"	25.5537672756635	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	B6	"rIXa,RIX-1-5-8"	28.2211584627911	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	B7	"rIXa,RIX-1-5-9"	31.54041749536	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	B8	"rIXa,RIX-1-5-10"	33.5943928414748	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	C2	"rIXa,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	C3	"rIXa,RIX-1-5-5"	20.4267877822743	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	C4	"rIXa,RIX-1-5-6"	22.931372692781	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	C5	"rIXa,RIX-1-5-7"	25.6449044634535	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	C6	"rIXa,RIX-1-5-8"	28.1160842336988	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	C7	"rIXa,RIX-1-5-9"	30.9828568104725	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	C8	"rIXa,RIX-1-5-10"	33.1882585662441	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	D2	"rIXa,mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	D3	"rIXa,RIX-1-5-5"	19.9529122317689	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	D4	"rIXa,RIX-1-5-6"	22.9217167512818	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	D5	"rIXa,RIX-1-5-7"	25.6407870143466	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	D6	"rIXa,RIX-1-5-8"	27.8668414499308	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	D7	"rIXa,RIX-1-5-9"	30.9919430375468	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	D8	"rIXa,RIX-1-5-10"	33.1981894768483	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	E2	"rIXa,A1"	33.9851450121558	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	E3	"rIXa,A2"	33.0915744724632	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	E4	"rIXa,A3"	35.4502007000422	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	E5	"rIXa,A4"	36.4798146506436	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	E6	"rIXa,N1"	34.2132225017074	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	E7	"rIXa,N2"	31.470937464985	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	E8	"rIXa,N3"	32.7476816590669	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	E9	"rIXa,N4"	30.9306139065226	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	F2	"rIXa,A1"	33.8160858938367	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	F3	"rIXa,A2"	32.8597020033866	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	F4	"rIXa,A3"	35.0252751238165	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	F5	"rIXa,A4"	34.622906811471	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	F6	"rIXa,N1"	34.6561141855087	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	0	F7	"rIXa,N2"	 	 	 	" "	" "	pdcPositive	0	cpsNone	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	F8	"rIXa,N3"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"A14-p12lk017208-rIXa"	"Abs Quant/2nd Derivative Max for rIXa"	1	F9	"rIXa,N4"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0

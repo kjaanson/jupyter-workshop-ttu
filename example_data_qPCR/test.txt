@@ -1,0 +1,151 @@
+"Experiment Name"	"Analysis Name"	Included	Position	"SampleName"	CrossingPoint	Concentration	Standard	"StatusCodes"	"StatusDesc"	Call	CpUncertain	CpState	CalcConcUncertain
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	B2	"A1"	22.948629185564	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	B3	"A2"	23.7483222743161	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	B4	"A3"	21.9963019185209	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	B5	"A4"	21.0187774671271	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	B6	"A5"	23.7674989088124	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	B7	"A6"	21.6007756398585	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	B8	"A7"	36.4403390535198	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	B9	"A8"	34.7223685316717	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	B10	"A9"	35.6479929723504	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	B11	"mQ"	35.580589008082	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	C2	"A1"	22.938703254158	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	C3	"A2"	23.5255651320028	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	C4	"A3"	21.9543803686595	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	C5	"A4"	21.0336873913249	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	C6	"A5"	23.7947263631406	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	C7	"A6"	21.6264617565857	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	C8	"A7"	35.4193252993494	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	C9	"A8"	35.8999490032992	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	C10	"A9"	37.5791551533227	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	C11	"mQ"	40	 	 	">"	"Late Cp call (last five cycles) has higher uncertainty"	pdcPositive	0	cpsLarge	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	D2	"A1"	22.9506035401423	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	D3	"A2"	23.575065208713	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	D4	"A3"	21.9648307533289	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	D5	"A4"	21.1183822201199	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	D6	"A5"	23.6940413462087	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	D7	"A6"	21.6859956679274	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	D8	"A7"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	D9	"A8"	35.8351980667121	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	D10	"A9"	35.1662082989458	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	D11	"mQ"	36.9785008267899	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	E2	"B1"	24.1607739753671	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	E3	"B2"	21.0866320005011	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	E4	"B3"	24.2437437225026	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	E5	"B4"	25.8851695903501	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	E6	"B5"	21.3241405068959	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	E7	"B6"	24.9506841922876	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	E8	"B7"	37.0433004687508	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	E9	"B8"	37.6562110287142	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	E10	"B9"	35.8676833122015	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	E11	"mQ"	37.9982529841892	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	F2	"B1"	24.301993151037	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	F3	"B2"	21.1532314396221	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	F4	"B3"	24.1617468808191	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	F5	"B4"	25.8600139457515	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	F6	"B5"	21.2278829526459	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	F7	"B6"	25.1503975013053	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	F8	"B7"	38.0746864829308	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	F9	"B8"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	F10	"B9"	37.5976415454131	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	F11	"mQ"	40	 	 	"?, >"	"Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty"	pdcUncertain	1	cpsLarge	1
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	G2	"B1"	24.0149077182305	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	G3	"B2"	21.0823248320584	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	G4	"B3"	24.1963902152629	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	G5	"B4"	25.8455541648791	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	G6	"B5"	21.1662516426398	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	G7	"B6"	25.0069936613071	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	G8	"B7"	40	 	 	">"	"Late Cp call (last five cycles) has higher uncertainty"	pdcPositive	0	cpsLarge	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	G9	"B8"	36.5799583731172	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	G10	"B9"	36.5787233099021	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for luc2P"	1	G11	"mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	E2	"B1"	24.1607739753671	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	E3	"B2"	21.0866320005011	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	E4	"B3"	24.2437437225026	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	E5	"B4"	25.8851695903501	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	E6	"B5"	21.3241405068959	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	E7	"B6"	24.9506841922876	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	E8	"B7"	37.0433004687508	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	E9	"B8"	37.6562110287142	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	E10	"B9"	35.8676833122015	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	E11	"mQ"	37.9982529841892	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	F2	"B1"	24.301993151037	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	F3	"B2"	21.1532314396221	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	F4	"B3"	24.1617468808191	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	F5	"B4"	25.8600139457515	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	F6	"B5"	21.2278829526459	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	F7	"B6"	25.1503975013053	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	F8	"B7"	38.0746864829308	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	F9	"B8"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	F10	"B9"	37.5976415454131	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	F11	"mQ"	40	 	 	"?, >"	"Detector Call uncertain, Late Cp call (last five cycles) has higher uncertainty"	pdcUncertain	1	cpsLarge	1
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	G2	"B1"	24.0149077182305	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	G3	"B2"	21.0823248320584	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	G4	"B3"	24.1963902152629	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	G5	"B4"	25.8455541648791	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	G6	"B5"	21.1662516426398	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	G7	"B6"	25.0069936613071	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	G8	"B7"	40	 	 	">"	"Late Cp call (last five cycles) has higher uncertainty"	pdcPositive	0	cpsLarge	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	G9	"B8"	36.5799583731172	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	G10	"B9"	36.5787233099021	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-luc2P"	"Abs Quant/2nd Derivative Max for B2-luc2P"	1	G11	"mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	B2	"A1"	19.9355770509061	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	B3	"A2"	21.1094786806753	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	B4	"A3"	18.7077613856224	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	B5	"A4"	19.2897094857832	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	B6	"A5"	21.540418417226	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	B7	"A6"	19.3198078257244	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	B8	"A7"	19.9635976236313	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	B9	"A8"	21.6153438589706	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	B10	"A9"	19.3318542346316	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	B11	"mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	C2	"A1"	19.9237632856389	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	C3	"A2"	21.2470665413399	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	C4	"A3"	18.8161919809493	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	C5	"A4"	19.2482636402013	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	C6	"A5"	21.5291972563865	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	C7	"A6"	19.4375369300435	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	C8	"A7"	19.9599070127307	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	C9	"A8"	21.6375337484412	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	C10	"A9"	19.4587886119687	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	C11	"mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	D2	"A1"	19.9131763693502	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	D3	"A2"	21.1972379943879	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	D4	"A3"	18.7327614635266	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	D5	"A4"	19.2231920226499	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	D6	"A5"	21.5111272988429	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	D7	"A6"	19.4326651516657	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	D8	"A7"	20.0281069114737	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	D9	"A8"	21.5782360136097	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	D10	"A9"	19.4237169995747	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	D11	"mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	E2	"B1"	26.1424784035998	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	E3	"B2"	18.7298861694778	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	E4	"B3"	21.8269070978428	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	E5	"B4"	26.0938536798009	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	E6	"B5"	18.8323379576544	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	E7	"B6"	21.9062609257544	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	E8	"B7"	26.0650081293699	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	E9	"B8"	18.8079892896826	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	E10	"B9"	21.6647059962616	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	E11	"mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	F2	"B1"	26.1894782764912	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	F3	"B2"	18.7209044277394	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	F4	"B3"	21.7986698729118	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	F5	"B4"	26.0590841128836	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	F6	"B5"	18.8484408847641	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	F7	"B6"	21.8976462463569	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	F8	"B7"	26.2405332436003	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	F9	"B8"	18.7626750553207	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	F10	"B9"	21.7741876482366	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	F11	"mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	G2	"B1"	26.1828888705629	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	G3	"B2"	18.7647223640612	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	G4	"B3"	21.8183532412264	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	G5	"B4"	26.1245765738078	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	G6	"B5"	18.8733317215279	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	G7	"B6"	21.9743893043016	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	G8	"B7"	26.2230581206103	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	G9	"B8"	18.7323260904299	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	G10	"B9"	21.6846848077092	 	 	" "	" "	pdcPositive	0	cpsNormal	0
+"Workshop-rBDNFtot"	"Abs Quant/2nd Derivative Max for rBDNFtot"	1	G11	"mQ"	 	 	 	" "	" "	pdcNegative	0	cpsNormal	0
