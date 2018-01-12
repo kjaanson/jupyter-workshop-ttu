@@ -9,6 +9,8 @@ panna nii enda tehtud ettekanded kui ka niisama *Workshop*-is tehtud katsetused.
   * [00 - Anaconda & Jupyter sissejuhatus](00-anaconda-jupyter-setup.ipynb)
   * [01 - Ülilühike ülevaade Python-ist](01-python-introduction.ipynb)
   * [02 - Pandasega andmeanalüüsi algus](02-pandas-introduction.ipynb)
+  * [03 - Pandasega andmete laadimine, puhastamine ja ühendamine](03-pandas-laadimine-puhastamine-ja-yhendamine.ipynb)
+  * [04 - TECAN-ist Excel-i eksport](04-tecanist-excel-export-id-dega.ipynb)
 
 ## Slack
 
@@ -19,7 +21,7 @@ või maili kaudu.
 
 Attribution & License :uk:
 --------------------------
-Lessons have been adapted from lessons from http://software-carpentry.org/ and
+Some of the lessons have been adapted/derived from lessons from http://software-carpentry.org/ and
 are shared under [Creative Commons Attribution licence](https://creativecommons.org/licenses/by/4.0/).
 
 All example programs and code written specifically for lessons in this repository
